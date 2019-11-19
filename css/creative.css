@@ -89,6 +89,10 @@ p {
   margin-bottom: 1rem;
 }
 
+.p-line {
+  line-height: 1.8;
+}
+
 abbr[title],
 abbr[data-original-title] {
   text-decoration: underline;
@@ -597,6 +601,21 @@ pre code {
   flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px;
+}
+
+.row2 {
+  display:flex;
+  flex-wrap:wrap;
+  margin-right:-15px;
+  margin-left:-15px;
+  padding-bottom: 10px;
+}
+
+.row3 {
+  display:flex;
+  flex-wrap:wrap;
+  justify-content: center;
+  padding-top: 20px;
 }
 
 .no-gutters {
