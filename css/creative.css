@@ -618,6 +618,17 @@ pre code {
   padding-top: 20px;
 }
 
+.row4{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  padding-bottom: 10px;
+}
+
+.padding-top{
+  padding-top: 10px;
+}
+
 .no-gutters {
   margin-right: 0;
   margin-left: 0;
@@ -9376,6 +9387,10 @@ button.bg-dark:focus {
 
 .font-italic {
   font-style: italic !important;
+}
+
+.text-underline{
+  text-decoration:underline;
 }
 
 .text-white {
