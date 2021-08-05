@@ -30,7 +30,7 @@
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.10.2",
-        "@popperjs/core": "^2.9.2",
+        "@popperjs/core": "^2.9.3",
         "axios": "^0.21.1",
         "bootstrap": "4.3.1",
         "bufferutil": "^4.0.3",
@@ -38,22 +38,23 @@
         "jquery.easing": "^1.4.1",
         "magnific-popup": "^1.1.0",
         "popper.js": "^1.16.1",
-        "socket.io": "^3.1.0",
+        "socket.io": "^3.1.2",
+        "tar": "^6.1.6",
         "utf-8-validate": "^5.0.5"
     },
     "devDependencies": {
-        "browser-sync": "^2.26.14",
+        "browser-sync": "^2.27.5",
         "del": "5.1.0",
-        "glob-parent": "^6.0.0",
+        "glob-parent": "^6.0.1",
         "gulp": "4.0.2",
         "gulp-autoprefixer": "^8.0.0",
         "gulp-clean-css": "4.2.0",
         "gulp-header": "2.0.9",
         "gulp-plumber": "^1.2.1",
         "gulp-rename": "1.4.0",
-        "gulp-sass": "4.0.2",
+        "gulp-sass": "^5.0.0",
         "gulp-uglify": "3.0.2",
         "merge-stream": "2.0.0",
-        "trim-newlines": "^4.0.1"
+        "trim-newlines": "^4.0.2"
     }
 }
