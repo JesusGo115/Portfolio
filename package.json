@@ -44,10 +44,10 @@
         "utf-8-validate": "^5.0.5"
     },
     "devDependencies": {
-        "browser-sync": "^2.27.5",
+        "browser-sync": "^2.27.7",
         "del": "5.1.0",
         "glob-parent": "^6.0.1",
-        "gulp": "4.0.2",
+        "gulp": "^4.0.2",
         "gulp-autoprefixer": "^8.0.0",
         "gulp-clean-css": "4.2.0",
         "gulp-header": "2.0.9",
