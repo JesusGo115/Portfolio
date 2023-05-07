@@ -44,7 +44,7 @@
         "socket.io": "^4.5.4",
         "tar": "^6.1.13",
         "update": "^0.7.4",
-        "upgrade-node-modules": "^1.4.0",
+        "upgrade-node-modules": "^1.2.1",
         "utf-8-validate": "^5.0.10"
     },
     "devDependencies": {
@@ -52,7 +52,7 @@
         "del": "7.0.0",
         "glob-parent": "^6.0.2",
         "gulp": "^4.0.2",
-        "gulp-autoprefixer": "^8.0.0",
+        "gulp-autoprefixer": "^6.1.0",
         "gulp-clean-css": "4.3.0",
         "gulp-header": "2.0.9",
         "gulp-plumber": "^1.2.1",
