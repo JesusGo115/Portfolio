@@ -1,2 +1,3 @@
 # JesusGomez
-My personal Website: https://viksmvp.github.io/JesusGomez/
+My personal website
+https://jesusgomez1115.github.io/JesusGomez/
