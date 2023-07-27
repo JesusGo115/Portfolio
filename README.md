@@ -1,3 +1,3 @@
 # JesusGomez
-My personal website
-https://jesusgomez1115.github.io/JesusGomez/
+My personal website:
+[Portfolio](https://jesusgo115.github.io/Portfolio/)
