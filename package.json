@@ -43,7 +43,7 @@
         "set-value": "^4.1.0",
         "socket.io": "^4.5.4",
         "tar": "^6.1.13",
-        "update": "^0.4.2",
+        "update": "^0.7.4",
         "upgrade-node-modules": "^1.2.1",
         "utf-8-validate": "^5.0.10"
     },
